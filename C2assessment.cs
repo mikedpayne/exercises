@@ -11,7 +11,7 @@ namespace RelearningConsole
         public static void Main()
         {
             /*
-            This was an assessment given to me by a job I previously applied for. They requested a program that showed the following:
+            This was an assessment given to me by a job I previously applied for. They requested a console app that showed the following:
             
             1.	Current Date information:
                 a.	Show the current date (1/14/2019)
