@@ -16,7 +16,7 @@ public class Program
 		while (next <= stop)
 		{
 			Console.Write(next);
-			if (next < stop)
+			if (next <= stop)
 			{
 				Console.Write(", ");
 			}
